@@ -19,9 +19,9 @@
 
 <br>
 
-<img align="right" height="150px" width="150px" alt="GIF" src="./sabrinoca.gif" />
+<img align="right" height="170px" alt="GIF" src="./sabrinoca.gif" />
 
-### I am a Frontend Engineer at @SamiSaude
+### I am a Frontend Engineer at Sami Saúde
 - 🔭 I’m currently working with Microfrontends and [Single-SPA](https://single-spa.js.org/)
 - 🌱 I’m currently learning about Frontend Architectures.
 - 🥅 2021 Goals: Be happy !
