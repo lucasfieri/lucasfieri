@@ -1,33 +1,36 @@
-## Connect With Me 
-<div style="display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    width: 230px;
-    margin-bottom: 5px"
-     >
-<a href="https://dev.to/lucasfieri" target="blank"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
-width="32" height="32"
-viewBox="0 0 172 172"
-style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path><g fill="#ffffff"><path d="M10.75,37.625v96.75h150.5v-96.75zM21.5,48.375h129v75.25h-129zM32.25,59.125v53.75h16.125c8.89025,0 16.125,-7.23475 16.125,-16.125v-21.5c0,-8.89025 -7.23475,-16.125 -16.125,-16.125zM86,59.125c-5.92862,0 -10.75,4.82138 -10.75,10.75v32.25c0,5.92863 4.82138,10.75 10.75,10.75h10.75v-10.75h-10.75v-10.75h10.75v-10.75h-10.75v-10.75h10.75v-10.75zM105.84131,59.125l11.20142,48.51148c0.7095,3.06375 3.4379,5.23852 6.58227,5.23852c3.14438,0 5.87277,-2.17477 6.58227,-5.23852l11.20142,-48.51148h-11.03345l-6.75024,29.23706l-6.75024,-29.23706zM43,69.875h5.375c2.967,0 5.375,2.408 5.375,5.375v21.5c0,2.967 -2.408,5.375 -5.375,5.375h-5.375z"></path></g></g></svg></a>
-<a href="https://twitter.com/eu_lukita" target="blank"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
-width="32" height="32"
-viewBox="0 0 172 172"
-style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path><g id="original-icon" fill="#ffffff"><path d="M172,30.82226c-6.4388,2.85547 -12.9056,5.01107 -20.07226,5.73894c7.16667,-4.3112 12.9056,-11.47787 15.76107,-19.3724c-7.16667,4.31119 -14.33333,7.16667 -22.19988,8.6224c-7.16667,-7.16667 -16.48893,-11.47787 -26.51106,-11.47787c-19.3724,0 -35.13347,15.76107 -35.13347,35.10547c0,2.88346 0,5.73893 0.72786,7.89453c-29.39453,-1.42774 -55.17773,-15.06119 -72.39453,-36.56119c-3.58333,5.03906 -5.01107,11.47786 -5.01107,17.91667c0,12.20573 6.43881,22.95573 15.76107,29.39453c-5.73893,-0.72786 -11.44987,-2.1556 -15.76107,-4.31119c0,0 0,0 0,0.72786c0,17.18881 12.17774,31.52214 27.93881,34.4056c-2.85547,0.69988 -5.71094,1.42774 -9.29427,1.42774c-2.1556,0 -4.3112,0 -6.4668,-0.72786c4.31119,14.33333 17.2168,24.38346 32.97786,24.38346c-12.17773,9.32227 -27.23893,15.03321 -43.72786,15.03321c-2.85547,0 -5.73893,0 -8.5944,-0.69988c15.76107,10.02214 34.4056,15.76107 53.75,15.76107c65.22787,0 100.33333,-53.75 100.33333,-100.33333c0,-1.42774 0,-2.85547 0,-4.31119c7.16667,-5.01107 12.9056,-11.44988 17.91667,-18.61654"></path></g></g></svg></a>
-<a href="https://linkedin.com/in/lucasfieri" target="blank"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
-width="32" height="32"
-viewBox="0 0 172 172"
-style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path><g fill="#ffffff"><path d="M156.23893,0h-140.47786c-8.5944,0 -15.76107,7.16667 -15.76107,15.76107v140.47786c0,8.5944 7.16667,15.76107 15.76107,15.76107h140.47786c8.5944,0 15.76107,-7.16667 15.76107,-15.76107v-140.47786c0,-8.5944 -7.16667,-15.76107 -15.76107,-15.76107zM50.16667,143.33333h-28.66667v-78.83333h28.66667zM35.83333,55.17774c-8.5944,0 -14.33333,-5.73893 -14.33333,-12.9056c0,-7.86654 5.73893,-13.60547 14.33333,-13.60547c8.5944,0 14.33333,5.73893 14.33333,12.9056c0,7.86654 -5.73893,13.60547 -14.33333,13.60547zM150.5,143.33333h-28.66667v-43c0,-11.47786 -7.89453,-14.33333 -10.02213,-14.33333c-2.1556,0 -11.47787,1.42774 -11.47787,14.33333c0,1.42774 0,43 0,43h-28.66667v-78.83333h28.66667v11.47787c4.3112,-6.4668 11.47787,-11.47787 25.08333,-11.47787c13.60547,0 25.08333,10.75 25.08333,35.83333z"></path></g></g></svg></a>
-<a href="https://instagram.com/lucasfieri" target="blank"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
-width="32" height="32"
-viewBox="0 0 172 172"
-style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path><g fill="#ffffff"><path d="M49.92548,0c-27.49519,0 -49.92548,22.43029 -49.92548,49.92548v72.14904c0,27.49519 22.43029,49.92548 49.92548,49.92548h72.14904c27.49519,0 49.92548,-22.43029 49.92548,-49.92548v-72.14904c0,-27.49519 -22.43029,-49.92548 -49.92548,-49.92548zM49.92548,13.23077h72.14904c20.33714,0 36.69471,16.33173 36.69471,36.69471v72.14904c0,20.33714 -16.33173,36.69471 -36.69471,36.69471h-72.14904c-20.33714,0 -36.69471,-16.33173 -36.69471,-36.69471v-72.14904c0,-20.33714 16.33173,-36.69471 36.69471,-36.69471zM135.61538,26.46154c-5.47837,0 -9.92308,4.44471 -9.92308,9.92308c0,5.47837 4.44471,9.92308 9.92308,9.92308c5.47837,0 9.92308,-4.44471 9.92308,-9.92308c0,-5.47837 -4.44471,-9.92308 -9.92308,-9.92308zM86,39.69231c-25.50541,0 -46.30769,20.80228 -46.30769,46.30769c0,25.50541 20.80228,46.30769 46.30769,46.30769c25.50541,0 46.30769,-20.80228 46.30769,-46.30769c0,-25.50541 -20.80228,-46.30769 -46.30769,-46.30769zM86,52.92308c18.34736,0 33.07692,14.72957 33.07692,33.07692c0,18.34736 -14.72956,33.07692 -33.07692,33.07692c-18.34735,0 -33.07692,-14.72956 -33.07692,-33.07692c0,-18.34735 14.72957,-33.07692 33.07692,-33.07692z"></path></g></g></svg></a>
-<a href="https://open.spotify.com/user/31wtmuggcei5awdbpjh5axsc3fge" target="blank"><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
-width="32" height="32"
-viewBox="0 0 172 172"
-style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><path d="M0,172v-172h172v172z" fill="none"></path><g fill="#ffffff"><path d="M86,0c-47.6256,0 -86,38.3744 -86,86c0,47.6256 38.3744,86 86,86c47.6256,0 86,-38.3744 86,-86c0,-47.6256 -38.3744,-86 -86,-86zM121.06671,126.36419c-1.3179,0 -2.66165,-0.67188 -3.97956,-1.34375c-12.5589,-7.26142 -27.77945,-11.24099 -44.31791,-11.24099c-9.2512,0 -18.52824,1.31791 -27.13341,3.30769c-1.31791,0 -3.30769,0.67187 -3.95373,0.67187c-3.30769,0 -5.29747,-2.66165 -5.29747,-5.29747c0,-3.30769 1.98978,-5.29747 4.6256,-5.94351c10.59495,-2.66166 21.16406,-3.97957 32.43089,-3.97957c18.5024,0 35.71274,4.6256 50.26142,13.23077c1.98978,1.31791 3.30769,2.63582 3.30769,5.94351c-0.64603,2.66165 -3.30769,4.65144 -5.94351,4.65144zM130.31791,103.85637c-1.98978,0 -3.30769,-0.64603 -4.6256,-1.31791c-13.90264,-8.60517 -33.07692,-13.90264 -54.91286,-13.90264c-10.56911,0 -20.49219,1.34375 -27.77945,3.30769c-1.98978,0.67187 -2.63581,0.67187 -3.97956,0.67187c-3.95373,0 -6.61538,-3.30769 -6.61538,-6.61538c0,-3.97956 1.98978,-5.94351 5.29747,-7.28726c9.92308,-2.63582 19.84615,-4.6256 33.74879,-4.6256c22.48197,0 44.31791,5.29747 61.52825,15.89243c2.63581,1.3179 3.95372,3.95372 3.95372,6.61538c0,3.95372 -2.63582,7.26142 -6.61538,7.26142zM140.91286,77.39483c-1.98978,0 -2.66165,-0.64603 -4.6256,-1.31791c-15.89243,-9.2512 -39.69231,-14.54868 -62.84615,-14.54868c-11.91287,0 -23.82572,1.31791 -34.42067,3.95373c-1.31791,0 -2.63582,0.67187 -4.6256,0.67187c-4.6256,0.67188 -7.93329,-3.30769 -7.93329,-7.93329c0,-4.6256 2.63582,-7.28726 5.94351,-7.93329c12.58473,-3.97957 25.8155,-5.29748 41.03606,-5.29748c25.11779,0 51.57933,5.29748 71.42548,16.53846c2.66165,1.31791 4.65144,3.95373 4.65144,7.93329c-0.67188,4.6256 -3.97957,7.93329 -8.60517,7.93329z"></path></g></g></svg></a>
-</div>
+  [![](https://pbs.twimg.com/media/Eak_EoaWAAA1CkU?format=jpg)]() 
+<p>
+  <h1 align="center"><b>Hello there, I'm Lucas Fieri <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></h1>
+</p>
 
-## GitHub Stats and Most Used Languages  
+<p>
+  <h4 align="center"><b>"É babado gata"</b></h4>
+</p>
+
+<p align="center">
+<br>
+<a href="https://twitter.com/eu_lukita"><img src="https://img.shields.io/badge/twitter-1DA1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://open.spotify.com/user/31wtmuggcei5awdbpjh5axsc3fge"><img src="https://img.shields.io/badge/spotify-%1DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>&nbsp;
+<a href="https://instagram.com/lucasfieri"><img src="https://img.shields.io/badge/instagram-E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/lucasfieri"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://dev.to/lucasfieri"><img src="https://img.shields.io/badge/dev.to-black.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/></a>&nbsp;
+
+</p>
+
+<br>
+
+<img align="right" height="150px" width="150px" alt="GIF" src="./sabrinoca.gif" />
+
+### I am a Frontend Engineer at @SamiSaude
+- 🔭 I’m currently working with Microfrontends and [Single-SPA](https://single-spa.js.org/)
+- 🌱 I’m currently learning about Frontend Architectures.
+- 🥅 2021 Goals: Be happy !
+- 💬 You can ask me about anything [here](https://github.com/lucasfieri/lucasfieri/issues)
+- ⚡ Fun fact: I'm a [non binary people](https://transequality.org/issues/resources/understanding-non-binary-people-how-to-be-respectful-and-supportive)
+
+<br>
+
+## ⚡ GitHub Stats and Most Used Languages  
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lucasfieri&hide=issues&theme=dracula&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
@@ -35,7 +38,7 @@ style=" fill:#000000;"><g fill="none" fill-rule="nonzero" stroke="none" stroke-w
 
 
 
-## Tech Skills  
+## 🌱 Tech Skills  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)
