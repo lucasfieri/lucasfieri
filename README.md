@@ -43,3 +43,5 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+
+![Snake animation](https://github.com/lucasfieri/lucasfieri/blob/output/github-contribution-grid-snake.svg)
