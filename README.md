@@ -22,7 +22,7 @@
 - 🥅 Meta para 2022: Certificação Scrum Master e PO
 - 👉 Jogo League of Legends (nick: <b>peitão crocante</b>)
 - 🍄 Sou apaixonado por Genshin Impact desde que lançou
-- 🍄 Tenho uma Lulu da Pomerânia chamada [Amaterasu](https://pt.wikipedia.org/wiki/Amateras) e dois gatinhos irmãos, o Albedo e o Xiao
+- 🍄 Tenho uma Lulu da Pomerânia chamada [Amaterasu](https://pt.wikipedia.org/wiki/Amaterasu) e dois gatinhos irmãos, o Albedo e o Xiao
 - ⚡ Fun fact: Sou uma [pessoa não binária](https://transequality.org/issues/resources/understanding-non-binary-people-how-to-be-respectful-and-supportive)
 
 <br>
