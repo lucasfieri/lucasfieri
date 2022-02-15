@@ -5,7 +5,6 @@
 
 <p align="center">
 <br>
-<a href="https://open.spotify.com/user/31wtmuggcei5awdbpjh5axsc3fge"><img src="https://img.shields.io/badge/spotify-%1DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/lucasfieri"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://dev.to/lucasfieri"><img src="https://img.shields.io/badge/dev.to-black.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/></a>&nbsp;
 
