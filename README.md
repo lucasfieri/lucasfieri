@@ -1,6 +1,6 @@
   [![](https://pbs.twimg.com/media/Eak_EoaWAAA1CkU?format=jpg)]() 
 <p>
-  <h1 align="center"><b>Eai gata, se votou no bozo, vaza daqui <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></h1>
+  <h1 align="center"><b>Eai gata, se votou no bozo, vaza daqui</b></h1>
 </p>
 
 <p align="center">
