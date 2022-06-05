@@ -1,7 +1,3 @@
-  [![](https://pbs.twimg.com/media/Eak_EoaWAAA1CkU?format=jpg)]() 
-<p>
-  <h1 align="center"><b>Eai gata, se votou no bozo, vaza daqui</b></h1>
-</p>
 
 <p align="center">
 <br>
@@ -12,18 +8,17 @@
 
 <br>
 
-<!-- <img align="right" height="170px" alt="GIF" src="./sabrinoca.gif" /> -->
+<img align="right" height="170px" alt="GIF" src="./sabrinoca.gif" />
 
-### Senior frontend developer e o que mais tiver pagando minhas contas
+### Senior frontend developer and everything else paying my bills
 <br>
 
-- 🔭 Atualmente trabalhando com NextJs e Styled Components
-- 🌱 Estou aprendendo sobre performance e caching no frontend, PWA e BFFs
-- 🥅 Meta para 2022: Certificação Scrum Master e PO
-- 👉 Jogo League of Legends (nick: <b>peitão crocante</b>)
-- 🍄 Sou apaixonado por Genshin Impact desde que lançou
-- 🍄 Tenho uma Lulu da Pomerânia chamada [Amaterasu](https://pt.wikipedia.org/wiki/Amaterasu) e dois gatinhos irmãos, o Albedo e o Xiao
-- ⚡ Fun fact: Sou uma [pessoa não binária](https://transequality.org/issues/resources/understanding-non-binary-people-how-to-be-respectful-and-supportive)
+- 🔭 Working with Nextjs and Styled Components to build an awesome design system
+- 🌱 I'm learning about perfomance and caching for frontends applications
+- 🥅 Goals to 2022: Fully english job
+- 👉 I'm League of Legends player
+- 🍄 I have a Pomeranian Lulu dog and her name is [Amaterasu](https://pt.wikipedia.org/wiki/Amaterasu) 
+- ⚡ Fun fact: I'm a [non binary people](https://transequality.org/issues/resources/understanding-non-binary-people-how-to-be-respectful-and-supportive) and my pronouns are he/she/they
 
 <br>
 
