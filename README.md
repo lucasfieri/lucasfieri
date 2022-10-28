@@ -8,8 +8,6 @@
 
 <br>
 
-<img align="right" height="170px" alt="GIF" src="./sabrinoca.gif" />
-
 ### Senior frontend developer and everything else paying my bills
 <br>
 
