@@ -8,11 +8,11 @@
 
 <br>
 
-### Senior frontend developer and everything else paying my bills
+### Senior software developer and everything else paying my bills
 <br>
 
-- 🌱 I'm learning about perfomance and caching for frontends applications
-- 🥅 Goals to 2022: Be happy
+- 🌱 I'm learning about how to scaling backend applications
+- 🥅 Goals to 2023: Be healthy
 - 👉 I'm League of Legends player
 - 🍄 I have a Pomeranian Lulu dog and her name is [Amaterasu](https://pt.wikipedia.org/wiki/Amaterasu) 
 - ⚡ Fun fact: I'm a [non binary people](https://transequality.org/issues/resources/understanding-non-binary-people-how-to-be-respectful-and-supportive) and my pronouns are he/she/they
