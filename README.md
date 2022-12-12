@@ -12,7 +12,7 @@
 <br>
 
 - 🌱 I'm learning about how to scaling backend applications
-- 🌱 New languages learning for 2023: Rust and C++
+- 🔮 New languages learning for 2023: Rust, C++ and Swedish 🇸🇪
 - 🥅 Goals to 2023: Be healthy
 - 👉 I'm League of Legends player
 - 🍄 I have a Pomeranian Lulu dog and her name is [Amaterasu](https://pt.wikipedia.org/wiki/Amaterasu) 
