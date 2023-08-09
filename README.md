@@ -10,8 +10,8 @@ You can call me Lucas. I'm a Software Developer focused on the front end, more s
 
 <br>
 
-- 🌱 I'm learning about physics
-- 🔮 A dream: become a doctor
+- 🌱 I'm learning about accessibility on design systems
+- 🔮 A dream: Be happy
 - 🥅 Goals to 2023: Be healthy
 - 👉 I'm League of Legends player
 - 🍄 I have a Pomeranian Lulu dog and her name is [Amaterasu](https://pt.wikipedia.org/wiki/Amaterasu) 
