@@ -5,7 +5,7 @@
 </p>
 
 Hey yo, and welcome to my **personal  hell**. <br>
-You can call me Lucas. I'm a Software Developer focused on the front end, more specifically on building design systems.
+You can call me Luca. I'm a Software Developer focused on the front end, more specifically on building design systems.
 
 
 <br>
