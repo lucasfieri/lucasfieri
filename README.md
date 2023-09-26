@@ -5,7 +5,7 @@
 </p>
 
 Hey yo, and welcome to my **personal  hell**. <br>
-You can call me Luca. I'm a Software Developer focused on the front end, more specifically on building design systems.
+You can call me Luca. I'm a Software Developer focused design systems and UI Engineer.
 
 
 <br>
@@ -22,9 +22,6 @@ You can call me Luca. I'm a Software Developer focused on the front end, more sp
 
 ## 🌱 Tech Skills  
 <br>
-
+![Storybook](https://img.shields.io/badge/storybook-%23323330.svg?style=for-the-badge&logo=storybook&logoColor=%FF4785)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
