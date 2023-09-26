@@ -22,6 +22,7 @@ You can call me Luca. I'm a Software Developer focused design systems and UI Eng
 
 ## 🌱 Tech Skills  
 <br>
+
 ![Storybook](https://img.shields.io/badge/storybook-%23323330.svg?style=for-the-badge&logo=storybook&logoColor=%FF4785)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
