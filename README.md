@@ -5,17 +5,17 @@
 </p>
 
 Hey yo, and welcome to my **personal  hell**. <br>
-You can call me Luca. I'm a Software Developer focused design systems and UI Engineer.
+You can call me Lucas. I'm a Sr Software Developer focused on Design Systems and UI Engineering.
 
 
 <br>
 
 - 🌱 I'm learning about accessibility on design systems
 - 🔮 A dream: Be happy
-- 🥅 Goals to 2023: Be healthy
+- 🥅 Goals to 2024: Be healthy
 - 👉 I'm League of Legends player
 - 🍄 I have a Pomeranian Lulu dog and her name is [Amaterasu](https://pt.wikipedia.org/wiki/Amaterasu) 
-- ⚡ Fun fact: I'm a [non binary people](https://transequality.org/issues/resources/understanding-non-binary-people-how-to-be-respectful-and-supportive) and my pronouns are he/she/they
+- ⚡ Fun fact: I'm a [non binary person](https://transequality.org/issues/resources/understanding-non-binary-people-how-to-be-respectful-and-supportive) and my pronouns are he/she/they
 
 <br>
 
