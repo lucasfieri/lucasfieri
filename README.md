@@ -14,8 +14,8 @@ You can call me Lucas. I'm a Sr Software Developer focused on Design Systems and
 - 🔮 A dream: Be happy
 - 🥅 Goals to 2024: Be healthy
 - 👉 I'm League of Legends player
-- 🍄 I have a Pomeranian Lulu dog and her name is [Amaterasu](https://pt.wikipedia.org/wiki/Amaterasu) 
-- ⚡ Fun fact: I'm a [non binary person](https://transequality.org/issues/resources/understanding-non-binary-people-how-to-be-respectful-and-supportive) and my pronouns are he/she/they
+- 🍄 I have a Pomeranian Lulu dog and it name is [Amaterasu](https://pt.wikipedia.org/wiki/Amaterasu) 
+- ⚡ Fun fact: I'm a [non binary person](https://transequality.org/issues/resources/understanding-non-binary-people-how-to-be-respectful-and-supportive) and my pronouns are he/they
 
 <br>
 
