@@ -1,29 +1,30 @@
+# Hi 👋 I’m Lucas Fieri
 
-<p align="center">
-<br>
-<a href="https://www.linkedin.com/in/lucasfieri"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" /></a>&nbsp;
-</p>
+Specialist Software Engineer focused on **Platform Engineering** and **Developer Experience (DevEx)**, with a strong background in **Frontend** and **Design Systems**.
 
-Hey yo, and welcome to my **personal  hell**. <br>
-You can call me Lucas. I'm a Sr Software Developer focused on Design Systems and UI Engineering.
+## What I’m up to in 2026
 
+- 🌱 Going deeper into **Kubernetes** and platform building
+- 🧰 Shipping tools that improve the developer journey (DX, CI/CD, observability)
+- 🥅 Health routine
+- 🧖🏻‍♀️ Skin and self care
 
-<br>
+## A little more about me
 
-- 🌱 I'm learning about accessibility on design systems
-- 🔮 A dream: Be happy
-- 🥅 Goals to 2024: Be healthy
-- 👉 I'm League of Legends player
-- 🍄 I have a Pomeranian Lulu dog and it name is [Amaterasu](https://pt.wikipedia.org/wiki/Amaterasu) 
-- ⚡ Fun fact: I'm a [non binary person](https://transequality.org/issues/resources/understanding-non-binary-people-how-to-be-respectful-and-supportive) and my pronouns are he/they
+- 🇧🇷 Based in Brazil · 🇮🇹 Italian citizen
+- 👨‍💻 I'm currently working at [Grupo Boticario](https://www.grupoboticario.com.br/)
+- 🧠 Interested in internal platforms, tooling, automation and developer workflows
+- 👉 I play League of Legends.
+- 🐶 Proud human of a Pomeranian named [Amaterasu](https://pt.wikipedia.org/wiki/Amaterasu)
 
-<br>
+## Core areas
 
+- Platform Engineering · DevEx · Internal Developer Platforms
+- Design Systems · Frontend Architecture · Tooling (CLIs, automation)
+- Observability · CI/CD · Developer workflows
 
-## 🌱 Tech Skills  
-<br>
+## 🌱 Tech Skills
 
-![Storybook](https://img.shields.io/badge/storybook-%23323330.svg?style=for-the-badge&logo=storybook&logoColor=%FF4785)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Figma](https://img.shields.io/badge/figma-%23323330.svg?style=for-the-badge&logo=figma&logoColor=%#a259ff)
+ Lets be honest, you can check much more details on my [LinkedIn](https://www.linkedin.com/in/lucasfieri) profile. Feel free to get in touch if you want to know more!
+
+Last updated: 01/02/2026

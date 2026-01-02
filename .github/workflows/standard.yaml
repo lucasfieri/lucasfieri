@@ -1,0 +1,98 @@
+name: Daily Contributions
+
+on:
+  schedule:
+    # 00:30 BRT (UTC-3) -> 03:30 UTC daily
+    - cron: '30 3 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  make-contribution:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update README timestamp via GitHub API (force push)
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const path = 'README.md';
+            const branch = 'main';
+            const timezone = 'America/Sao_Paulo'; // BRT
+            const now = new Date();
+            const formatter = new Intl.DateTimeFormat('en-US', {
+              timeZone: timezone,
+              month: '2-digit',
+              day: '2-digit',
+              year: 'numeric',
+              hour: '2-digit',
+              minute: '2-digit'
+            });
+            const formatted = formatter.format(now).replace(',', '');
+            const newLine = `Last updated: ${formatted} BRT`;
+            const owner = context.repo.owner;
+            const repo = context.repo.repo;
+
+            const { data: branchData } = await github.rest.repos.getBranch({
+              owner,
+              repo,
+              branch,
+            });
+
+            const latestSha = branchData.commit.sha;
+            const { data: file } = await github.rest.repos.getContent({
+              owner,
+              repo,
+              path,
+              ref: branch,
+            });
+
+            const content = Buffer.from(file.content, 'base64').toString('utf8');
+            const updated = content.match(/^Last updated:.*$/m)
+              ? content.replace(/^Last updated:.*$/m, newLine)
+              : `${content}\n${newLine}`;
+
+            const { data: blob } = await github.rest.git.createBlob({
+              owner,
+              repo,
+              content: updated,
+              encoding: 'utf-8',
+            });
+
+            const { data: latestCommit } = await github.rest.git.getCommit({
+              owner,
+              repo,
+              commit_sha: latestSha,
+            });
+
+            const { data: tree } = await github.rest.git.createTree({
+              owner,
+              repo,
+              base_tree: latestCommit.tree.sha,
+              tree: [
+                {
+                  path,
+                  mode: '100644',
+                  type: 'blob',
+                  sha: blob.sha,
+                },
+              ],
+            });
+
+            const commitMessage = 'chore: updating current time';
+            const { data: newCommit } = await github.rest.git.createCommit({
+              owner,
+              repo,
+              message: commitMessage,
+              tree: tree.sha,
+              parents: [latestSha],
+            });
+
+            await github.rest.git.updateRef({
+              owner,
+              repo,
+              ref: `heads/${branch}`,
+              sha: newCommit.sha,
+              force: true,
+            });
