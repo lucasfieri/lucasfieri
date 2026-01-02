@@ -4,6 +4,7 @@ on:
   schedule:
     # 00:30 BRT (UTC-3) -> 03:30 UTC daily
     - cron: '30 3 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -27,7 +28,8 @@ jobs:
               day: '2-digit',
               year: 'numeric',
               hour: '2-digit',
-              minute: '2-digit'
+              minute: '2-digit',
+              hour12: false,
             });
             const formatted = formatter.format(now).replace(',', '');
             const newLine = `Last updated: ${formatted} BRT`;
