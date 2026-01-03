@@ -27,4 +27,4 @@ Specialist Software Engineer focused on **Platform Engineering** and **Developer
 
  Lets be honest, you can check much more details on my [LinkedIn](https://www.linkedin.com/in/lucasfieri) profile. Feel free to get in touch if you want to know more!
 
-Last updated: 01/02/2026 15:14 BRT
+Last updated: 01/03/2026 01:07 BRT
