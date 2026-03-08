@@ -82,6 +82,12 @@ jobs:
               ],
             });
 
+            const { data: userData } = await github.rest.users.getByUsername({ username: owner });
+            const authorInfo = {
+              name: userData.name || owner,
+              email: `${userData.id}+${owner}@users.noreply.github.com`,
+            };
+
             const commitMessage = 'chore: updating current time';
             const { data: newCommit } = await github.rest.git.createCommit({
               owner,
@@ -89,6 +95,8 @@ jobs:
               message: commitMessage,
               tree: tree.sha,
               parents: [latestSha],
+              author: authorInfo,
+              committer: authorInfo,
             });
 
             await github.rest.git.updateRef({
